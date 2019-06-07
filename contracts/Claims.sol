@@ -2,7 +2,7 @@ pragma solidity 0.5.9;
 
 /*
 * @Author Flash
-* Source at https://github.com/Flash-Git/Claims/contracts
+* Source at https://github.com/Flash-Git/Claims/tree/master/contracts
 */
 
 /*
